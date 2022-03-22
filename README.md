@@ -10,7 +10,7 @@
 
 ## Desenvolvimento
 
-- Implemente uma paleta de cores usando `javascript`, `css` e `html`.
+- Implementação de uma paleta de cores usando `javascript`, `css` e `html`.
 
 ## Demonstração da aplicação
 
